@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hr>
+
+**Languages and Tools:**  
+
+<code><img height="40" src="https://raw.githubusercontent.com/NotMyself/DotNetCoreKoans/master/static/img/dot-net-core-koans-logo.svg"></code>
+
+<hr>
