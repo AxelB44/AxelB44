@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <code><img height="40" src="https://raw.githubusercontent.com/NotMyself/DotNetCoreKoans/master/static/img/dot-net-core-koans-logo.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></code>
-
+<code><img height="40" src="https://iconape.com/wp-content/files/yb/61798/png/flutter-logo.png"></code>
 <hr>
 
 **Other stats:** 
