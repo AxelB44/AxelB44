@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://iconape.com/wp-content/files/sh/51404/png/c--4.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></code>
 <code><img height="40" src="https://iconape.com/wp-content/files/yb/61798/png/flutter-logo.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png"></code>
 <hr>
 
 **Other stats:** 
