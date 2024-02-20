@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png"></code>
+<code><img height="40" src="https://iconape.com/wp-content/files/sh/51404/png/c--4.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></code>
 <code><img height="40" src="https://iconape.com/wp-content/files/yb/61798/png/flutter-logo.png"></code>
 <hr>
